@@ -1,1 +1,0 @@
-MCAL/MSPI/MSPI_prog.o MCAL/MSPI/MSPI_prog.o: ../MCAL/MSPI/MSPI_prog.c

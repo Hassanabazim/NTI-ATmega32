@@ -1,1 +1,13 @@
-/ATmega32-Drivers/
+*.bin 
+*.elf
+*.hex
+*.mk
+*.list
+*.d
+*.map
+*.o
+*.su
+
+test-result*.xml
+makefile
+
