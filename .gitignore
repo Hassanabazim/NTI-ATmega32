@@ -1,0 +1,14 @@
+*.bin 
+*.elf
+*.hex
+*.mk
+*.list
+*.d
+*.map
+*.o
+*.su
+*.mkv
+
+test-result*.xml
+makefile
+
